@@ -1,0 +1,32 @@
+{
+  "name": "array-to-plain-object",
+  "version": "1.0.0",
+  "description": "Convert an array into a plain object",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "node index.spec.js & npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neosiae/array-to-plain-object.git"
+  },
+  "keywords": [
+    "convert",
+    "array",
+    "object",
+    "plain",
+    "object",
+    "transform"
+  ],
+  "author": "Denis Kotlica <neosiae@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neosiae/array-to-plain-object/issues"
+  },
+  "homepage": "https://github.com/neosiae/array-to-plain-object#readme",
+  "devDependencies": {
+    "standard": "^14.3.4",
+    "tape": "^5.0.1"
+  }
+}
