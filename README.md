@@ -1,4 +1,7 @@
 # array-to-plain-object
+
+![npm](https://img.shields.io/npm/v/array-to-plain-object?style=flat-square) ![Travis (.org)](https://img.shields.io/travis/neosiae/array-to-plain-object?style=flat-square) ![npm](https://img.shields.io/npm/dw/array-to-plain-object?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/array-to-plain-object?style=flat-square)
+
 Convert an array into a plain object
 
 ## Install
